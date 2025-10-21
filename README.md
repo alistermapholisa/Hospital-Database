@@ -1,6 +1,6 @@
 # Mnene Hospital Database Project 🏥
 
-<bold>Introduction<bold>
+<bold>Introduction<bold> <br>
 This project demonstrates the development and implementation of a relational database system for Mnene Hospital. The primary goal was to transition the hospital from an inefficient, risk-prone paper-based record-keeping system to a streamlined digital database solution using SQLite.
 
 This project was completed as part of the ALX Academy curriculum.
