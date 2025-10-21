@@ -38,7 +38,7 @@ This repository contains the essential files and documentation for the project:
 
 | File/Folder | Purpose |
 | :--- | :--- |
-| `Mnene_Hospital_Database.db` | The **final SQLite database file** containing all tables and data (or the `.sql` script to create it). |
+| `Hospital.db` | The **final SQLite database file** containing all tables and data (or the `.sql` script to create it). |
 | `Tasks.png` | The **original project requirements/tasks** used to drive the data analysis. |
 | `SQL_Queries_Documentation.md` | A file containing the **SQL scripts** used to solve the required tasks (like finding averages, counting patients, and joining tables). |
 | `Screenshots/` | A folder containing images that **demonstrate the query execution and results** for the required tasks. |
@@ -68,5 +68,5 @@ To explore this project:
     git clone [https://github.com/YourUsername/Mnene-Hospital-Database.git](https://github.com/YourUsername/Mnene-Hospital-Database.git)
     ```
 2.  **Download SQLite Browser:** Install a tool like **DB Browser for SQLite** to view and query the database file.
-3.  **Open the Database:** Open the `Mnene_Hospital_Database.db` file in the SQLite browser.
+3.  **Open the Database:** Open the `Hospital.db` file in the SQLite browser.
 4.  **Review the Queries:** Examine the `SQL_Queries_Documentation.md` file or run the queries yourself in the "Execute SQL" tab to replicate the results shown in the `Screenshots/` folder.
